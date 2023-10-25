@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9sfqwLmbf6BuuAtyCBrFlK0zzHQa30VzabVJ8gc3+wV9x7CduEaNZMWmAduclBHXVut9NHmS7vyDU/RsDtH6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Scrape\\Scrape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moon\\.nuget\\packages\\beref.bibtextools\\0.0.1\\beref.bibtextools.0.0.1.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"BERef.BibTeXTools 0.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "BERef.BibTeXTools",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

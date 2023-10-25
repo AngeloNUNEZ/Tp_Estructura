@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4mZ+cM53u9mpx/Gy/lQAzmpHRCaT7vxePxCkxsS0WKsSH35tmuvQZzSilmmPtA8S/5/mRmFUZWX5Mxd8HlvA8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\Procesamiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moon\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\scottplot\\4.1.14\\scottplot.4.1.14.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\wordcloudcsharp\\1.0.2\\wordcloudcsharp.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

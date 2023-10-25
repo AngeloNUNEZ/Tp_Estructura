@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\Procesamiento.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\Procesamiento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\Procesamiento.csproj",
+        "projectName": "Procesamiento",
+        "projectPath": "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\Procesamiento.csproj",
+        "packagesPath": "C:\\Users\\Moon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moon\\Desktop\\Estructura_TP\\C#\\Procesamiento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[4.1.14, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "WordCloudCsharp": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
